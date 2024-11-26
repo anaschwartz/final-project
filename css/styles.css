@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: flex-start; /* Vertical centering */
+    height: 100vh; /* Full viewport height */
+    padding-top: 20px;
+    
+  }
+
